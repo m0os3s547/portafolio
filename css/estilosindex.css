@@ -9,7 +9,7 @@
 	font-family: 'Montserrat', sans-serif;
 }
 footer{
-    color: white;
+    color: rgb(234, 234, 234);
     position: static;
     padding: 4vw;
     bottom: 0;
@@ -29,10 +29,10 @@ footer{
 
 }
 .violeta{
-    background: #d53f3f;
+    background: #513fd5;
 }
 .rojo{
-    background-color: #e8302a;
+    background-color: #862ae8;
 }
 /*--------separaciones---------*/
 .margin2{
@@ -88,12 +88,12 @@ footer{
 
 /*.-----elementos------*/
 .caja{
-    border: solid 20px #e8302a;
+    border: solid 20px #a22ae8;
     border-radius: 8%;
 }
 .caja__imagen{
     height: 70%;
-    background-color: #501a18;
+    background-color: #201850;
     background-position: center;
     background-size: cover;
 }
@@ -103,9 +103,9 @@ footer{
     font-weight: bold;
 }
 .caja__link{
-    border: solid 10px #3a1d1d;
-    background: #3a1d1d;
+    border: solid 10px #1d2f3a;
+    background: #1d373a;
     border-radius: 40px;
     text-decoration: none;
-    color: wheat;
+    color: rgba(245, 222, 179, 0.531);
 }
