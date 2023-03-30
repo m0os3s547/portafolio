@@ -10,7 +10,7 @@
 	font-family: 'Montserrat', sans-serif;
 }
 footer{
-    color: rgb(27, 26, 26);
+    color: rgb(65, 38, 65);
     position: static;
     padding: 4vw;
     bottom: 0;
@@ -20,7 +20,7 @@ footer{
 }*/
 /*---colordeletras---*/
 .fontwheat{
-    color: rgb(14, 14, 13);
+    color: rgb(37, 37, 34);
 }
 
 /*--------colores-----------*/
@@ -29,8 +29,8 @@ footer{
     background-image: linear-gradient(109deg, #4d454f 31%, #37343a 84%);
 
 }
-.footer{
-    background: #371ff0;
+.violeta{
+    background: #d830f5;
 }
 .verde{
     background-color: #301053;
